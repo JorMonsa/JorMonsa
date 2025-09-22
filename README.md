@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Jorge Monsalve (JorMonsa)
 
-<!--
-**JorMonsa/JorMonsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer | Currently training with **Lyraks**  
+🌱 Learning: C#, ASP.NET MVC, SQL & TypeScript  
+🚀 Passionate about coding, problem-solving, and building real projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- C# | ASP.NET Core MVC | Entity Framework  
+- SQL (MySQL & SQL Server)  
+- JavaScript | TypeScript  
+- Git & GitHub  
